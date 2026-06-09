@@ -22,10 +22,11 @@ Dự án "Ứng dụng Quản Lý Quán Cafe" được xây dựng nhằm hỗ t
 
 | Họ tên | Nhiệm vụ |
 |---------|---------|
-| Vũ Huỳnh | Phân tích yêu cầu |
-| Thành viên 2 | Thiết kế giao diện |
-| Thành viên 3 | Chức năng đăng nhập |
-| Thành viên 4 | Quản lý menu |
+| Huỳnh lê Phong Vũ | Phân tích yêu cầu |
+| Vũ Đức Giang | Thiết kế giao diện |
+| Trần Nguyễn Nhất Nam | Chức năng đăng nhập |
+| Nguyễn Anh Việt | Quản lý menu |
+| Hải Trần Đăng Khoa| Kiểm tra và thử tài liệu|
 
 ## Chức năng chính
 
